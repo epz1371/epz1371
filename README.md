@@ -14,19 +14,20 @@
 - ⚡ Fun fact **I speak English, German, Russian and Persian =)**
 
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
-    <td align="left">
+    <td style="border: none;">
       <img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="250"/>
     </td>
-    <td align="center">
+    <td style="border: none;">
       <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="250"/>
     </td>
-    <td align="right">
+    <td style="border: none;">
       <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="250"/>
     </td>
   </tr>
 </table>
+
 
 
 <h3 align="left">Connect with me:</h3>
