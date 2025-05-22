@@ -14,7 +14,16 @@
 - ⚡ Fun fact **I speak English, German, Russian and Persian =)**
 
 
-![Ehsan GIF](https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif)
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="300"/>
+    </td>
+    <td align="right">
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300"/>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
