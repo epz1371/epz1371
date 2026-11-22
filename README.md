@@ -28,7 +28,10 @@
   </tr>
 </table>
 
-
+<!-- Spotlight portrait: a lens drifts over photo 1 and reveals photo 2 -->
+<p align="left">
+  <img src="./spotlight.svg" width="400" alt="Ehsan - spotlight portrait"/>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
