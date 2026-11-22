@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ehsan =)</h1>
-<h3 align="center">A passionate Data Science and Machine Learning developer and Master of Mechatronics.</h3>
+<h3 align="center">Developer of Software, Data Science Tools, and Machine Learning Algorithms</h3>
 
-- 🔭 I’m currently working on **Data Science, AI and Automation projects**
+- 🔭 I’m currently working on **Data Science, AI, Automation projects and Ethical Hacking**
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Data Science, Machine Learning and AI**
+- 💬 Ask me about **Software Development, UML, Structorizer, Data Science, Machine Learning, AI and Ethical Hacking**
 
 - 📫 How to reach me **ehsan.pazooki.93@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/ehsan-pazooki-04a7a813a](www.linkedin.com/in/ehsan-pazooki-04a7a813a)
 
-- ⚡ Fun fact **I speak English, German, Russian and Persian =)**
+- ⚡ **feel free to contact me =)**
 
 
 <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
