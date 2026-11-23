@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **Data Science, AI, Automation projects and Ethical Hacking**
 
-- 🌱 I’m currently learning **Django**
-
-- 💬 Ask me about **Software Development, UML, Structorizer, Data Science, Machine Learning, AI and Ethical Hacking**
+- 💬 Ask me about **Software Development, UML, Structorizer, Data Science, Machine Learning, AI, Data Banks and Ethical Hacking**
 
 - 📫 How to reach me **ehsan.pazooki.93@gmail.com**
 
